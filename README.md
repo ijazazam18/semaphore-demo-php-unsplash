@@ -1,5 +1,3 @@
-<p align="right"><img src="https://tomfern.semaphoreci.com/badges/semaphore-demo-php-unsplash.svg" alt="Build Status"></p>
-
 # Unsplash Image Gallery Demo
 
 This is a PHP Laravel image gallery demo that pulls images from the [Unsplash PHP API](https://github.com/unsplash/unsplash-php).
