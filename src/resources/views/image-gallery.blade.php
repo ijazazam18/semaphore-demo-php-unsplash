@@ -114,7 +114,7 @@
 </head>
 
 <body>
-  <p class="heading">Image Gallery Demo</p>
+  <p class="heading">Image API Gallery</p>
   <div class="gallery-form">
     {{ Form::open(array('url' => '/gallery/search')) }}
     {{ Form::text('search', $search) }}
